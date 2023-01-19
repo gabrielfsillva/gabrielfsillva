@@ -37,13 +37,4 @@ Atualmente tenho me dedicado a me tornar um dev front-end.
 
 - Proativo, criativo e espero ajudar o mundo com meus conhecimentos
 
- ## ⚡ GitHub Estatísticas
-
-<div>
-  <a href="https://github.com/gabrielfsillva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielfsillva&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfsillva&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
-  
-</br>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=gabrielfsillva" alt="gabrielfsillva" /></p>
+ 
