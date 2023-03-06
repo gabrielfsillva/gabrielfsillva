@@ -23,7 +23,6 @@ Atualmente tenho me dedicado a me tornar um dev front-end.
 ## 🚀 Tecnologias & Conhecimentos 💻
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
 ![Vue.js](https://img.shields.io/badge/-vue.js-black?style=flat-square&logo=vue.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
